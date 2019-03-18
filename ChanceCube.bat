@@ -6,7 +6,7 @@ pause
 echo.
 cd "%USERPROFILE%\Documents\Curse\Minecraft\Instances\Project Ozone 2 Reloaded\config\ChanceCubes"
 echo.
-xcopy %USERPROFILE%\Downloads\JTHChanceCubeInstaller\chancecubes.cfg "%USERPROFILE%\Documents\Curse\Minecraft\Instances\Project Ozone 2 Reloaded\config\ChanceCubes" /s /q /y
+xcopy %USERPROFILE%\Downloads\JTHChanceCubeInstaller-master\chancecubes.cfg "%USERPROFILE%\Documents\Curse\Minecraft\Instances\Project Ozone 2 Reloaded\config\ChanceCubes" /s /q /y
 echo.
 pause
 echo.
