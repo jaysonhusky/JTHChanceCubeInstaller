@@ -1,0 +1,35 @@
+Full List of Disabled Chance Cube Events in this configuration
+
+
+(GIANT CHANCE CUBES)
+- Chuck reverse
+- Chunk Flip
+- Fluid Tower
+- Vortex
+
+
+(NORMAL CUBES)
+
+- Unstable Ingot
+- Actual Invisible Ghast
+- Beacon
+- Clear Inventory
+- D-Rude Sandstorm
+- Giant Chance Cube
+- Inventory Bomb
+- Inventory Chest
+- Invisible Creeper
+- Invisible Ghasts
+- Math
+- Maze
+- Nether Jellyfish
+- Nether Star (this will be given by an admin if required)
+- Question
+- Random Teleport
+- Rotten Food
+- String!
+- Torches to Creepers
+- Endest
+- Vortex
+
+
