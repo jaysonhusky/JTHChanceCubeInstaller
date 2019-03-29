@@ -10,8 +10,18 @@ Allows for fast installation of Modified ChanceCube configurations, where server
 - See "disabledrewards.txt" for full list of all disabled events.
 
 
+
+## Specs
+
+- Required installations: Java for Windows, Minecraft (either Mojang or Microsoft edition, NOT Pocket) and Project Ozone 2:Reloaded denoting version 1.7.10
+
+
 ## Updates
 
+
+2.0 
+- Update to allow for custom installation directories and rollback functionality.
+- (Custom install directories do not activate the server request for latest file, so you may recieve the "You have the latest version" message regardless of if you actually are running it.
 
 1.5
 - GUI refresh to make user access easier.
